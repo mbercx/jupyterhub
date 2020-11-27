@@ -46,7 +46,7 @@ their effects quickly. You need to do a developer install to make that
 happen.
 
 .. note:: This guide does not attempt to dictate *how* development
-   environements should be isolated since that is a personal preference and can
+   environments should be isolated since that is a personal preference and can
    be achieved in many ways, for example `tox`, `conda`, `docker`, etc. See this
    `forum thread <https://discourse.jupyter.org/t/thoughts-on-using-tox/3497>`_ for
    a more detailed discussion.
